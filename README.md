@@ -2,7 +2,7 @@
 
 This repository contains analysis and plotting utilities used for the study:
 
-**Crystallization-Driven Octahedral Network Formation and Its Suppression Enable Tunable Li+ Transport in LiF-Rich SEIs**
+**Topological Suppression of Octahedral LiF Networks Enables Fast Li+ Transport in LiF-Rich Interphases**
 
 The scripts analyze NEP/GPUMD molecular dynamics outputs for LiF-rich inorganic solid electrolyte interphase models. They generate the main quantities discussed in the manuscript, including NEP training parity plots, thermodynamic time series, Li mean-squared displacement, local Li coordination motif populations, motif residence times, and tetrahedral-octahedral interconversion frequencies.
 
